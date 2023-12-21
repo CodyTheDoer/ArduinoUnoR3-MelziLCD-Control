@@ -24,6 +24,14 @@ Custom Pinout:
     
     10: GND ---------------------------------------------- GND
 
+Libraries:
+
+Encoder Library:
+https://www.arduino.cc/reference/en/libraries/encoder/
+
+U8g2 Library:
+https://www.arduino.cc/reference/en/libraries/u8g2/
+
 Knowledge Sources:
 
 Interfacing with the Wanhao i3 LCD: 
