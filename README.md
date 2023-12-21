@@ -24,7 +24,9 @@ Custom Pinout:
     GND ---------------------------------------------- GND
 
 Knowledge Sources:
-Interfacing with the Wanhao i3 LCD
+
+Interfacing with the Wanhao i3 LCD: 
 https://reprap.org/forum/read.php?415,873380
-How Do I Configure Pinouts For A LCD
+
+How Do I Configure Pinouts For A LCD: 
 https://reprap.org/forum/read.php?415,885957
