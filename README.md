@@ -2,6 +2,7 @@
 Opensource Pinouts and Code to independently control the LCD shipped with the Melzi Boards for Monoprice Di3 and Wanhao printers. Developed by working with ChatGPT4
 
 Custom Pinout: 
+
     LCD CS --------------------------------- D10 (Digital)
 
     Encoder B ------------------------------- D3 (Digital)
